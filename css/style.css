@@ -26,7 +26,6 @@ display:flex;
 .sidebar {
   display: flex;
   justify-content: center; 
-  border: solid white 3px;
   display: none;  
  align-items: column;
 }
